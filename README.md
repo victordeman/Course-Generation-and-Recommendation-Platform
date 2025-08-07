@@ -48,7 +48,7 @@ Welcome to the **Course Generation and Recommendation Platform**, an educational
 
 ## Repository Structure
 
-\`\`\`
+```
 $PROJECT_NAME/
 ├── backend/
 │   ├── php/                    # PHP core logic
@@ -76,7 +76,7 @@ $PROJECT_NAME/
 │   ├── rabbitmq/              # RabbitMQ configurations
 │   ├── nodejs/                # Node.js scripts
 ├── README.md                  # Project documentation
-\`\`\`
+```
 
 ## Getting Started
 
