@@ -1,6 +1,6 @@
 # Course Generation and Recommendation Platform
 
-Welcome to the **Course Generation and Recommendation Platform**, an educational system designed to create personalized learning experiences for students. Built with a modular and flexible architecture inspired by platforms like Shopware, this project provides tools for assessing student knowledge, recommending learning paths, tracking performance, and facilitating interactive learning.
+Welcome to the **Course Generation and Recommendation Platform**, an educational system designed to create personalized learning experiences for students. Built with a modular and flexible architecture inspired by platforms like Shopware, this project provides tools for assessing student knowledge, recommending learning paths, tracking performance, and facilitating interactive learning.**(Work in progress)**
 
 ## Repository
 [https://github.com/victordeman/Course-Generation-and-Recommendation-Platform](https://github.com/victordeman/Course-Generation-and-Recommendation-Platform)
