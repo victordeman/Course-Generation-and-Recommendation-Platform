@@ -1,0 +1,4 @@
+# Symfony configuration file
+parameters:
+    app.name: "Course Generation and Recommendation Platform"
+    app.database: "mysql" # or mongodb
